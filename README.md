@@ -30,7 +30,7 @@ Apasionado por la calidad de software, los datos y el aprendizaje continuo.
 
 ## 📫 Cómo contactarme
 - ✉️ Email: tuemail@example.com  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/JulianvanegasTs)  
+- 💼 LinkedIn: [linkedin.com/in/JulianvanegasTs](https://linkedin.com/in/JulianvanegasTs)  
 
 ---
 ⭐️ *Gracias por visitar mi perfil* ⭐️
