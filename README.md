@@ -24,13 +24,13 @@ Apasionado por la calidad de software, los datos y el aprendizaje continuo.
 ---
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianvanegasTs&show_icons=true&theme=tokyonight)  
 
 ---
 
 ## 📫 Cómo contactarme
 - ✉️ Email: tuemail@example.com  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/JulianvanegasTs)  
 
 ---
 ⭐️ *Gracias por visitar mi perfil* ⭐️
