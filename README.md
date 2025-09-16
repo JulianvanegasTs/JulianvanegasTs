@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Julián
 
-<!--
-**JulianvanegasTs/JulianvanegasTs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Tester & entusiasta de la automatización**  
+Apasionado por la calidad de software, los datos y el aprendizaje continuo.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🔎 Experiencia en **testing manual y automatizado**  
+- 🐍 Automatización con **Python + Selenium**  
+- 🗄️ Manejo de **SQL en MySQL**  
+- 🌐 Proyectos de QA para **banca y e-commerce**  
+- 📚 Siempre aprendiendo sobre **devops, QA y cloud**  
+
+---
+
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes**: Python, SQL  
+- **Testing**: Selenium, PyTest, Postman  
+- **Control de versiones**: Git & GitHub  
+- **Bases de datos**: MySQL  
+- **Otros**: Google Cloud (básico), CI/CD (aprendiendo)  
+
+---
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
+
+---
+
+## 📫 Cómo contactarme
+- ✉️ Email: tuemail@example.com  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+
+---
+⭐️ *Gracias por visitar mi perfil* ⭐️
